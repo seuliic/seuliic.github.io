@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Seul"
 title_separator          : "|"
-subtitle                 : "Experimental Thought"
+subtitle                 : "experimental thought"
 name                     : "seuliic"
 description              : "seul's blog"
 url                      : "https://seuliic.github.io"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "seuliic"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Seul's Blog"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
