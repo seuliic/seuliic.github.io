@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c2701bcc5965e00",
+        "id": "75faddf7cd8ffef2",
         "type": "tabs",
         "children": [
           {
-            "id": "6743b1e98bf7e25d",
+            "id": "6263bdba6eb45d4b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/images/bio-photo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for bio-photo"
             }
           },
           {
@@ -107,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/images/bio-photo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from bio-photo"
             }
           },
           {
@@ -132,9 +134,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "assets/images/bio-photo.png"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of bio-photo"
             }
           }
         ]
@@ -154,10 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6743b1e98bf7e25d",
+  "active": "ef0ab35c06b2d1aa",
   "lastOpenFiles": [
-    "_posts/2024-10-29-first_post.md",
+    "Gemfile.sb-6da4a4ff-cVyycm",
     "_site/package.json",
+    "_site/assets/images/bio-photo.png",
+    "_site/assets/images",
+    "CHANGELOG.md",
+    "assets/images/bio-photo.png",
+    "assets/images",
+    "_posts/2024-10-29-first_post.md",
     "_site/assets/js/lunr/lunr.min.js",
     "_site/assets/js/lunr/lunr.js",
     "_site/assets/js/lunr/lunr-store.js",
@@ -165,8 +175,6 @@
     "_site/assets/js/lunr/lunr-en.js",
     "_site/assets/js/main.min.js.map",
     "_site/assets/js/main.min.js",
-    "_site/assets/js/lunr",
-    "_site/assets/css/main.css.map",
     "_site/screenshot.png",
     "_site/screenshot-layouts.png",
     "_posts/2024-10-29-first-post.md",
