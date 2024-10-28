@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-29-first_post.md",
+                "file": "_posts/2024-10-29-FirstPost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-29-first_post"
+              "title": "2024-10-29-FirstPost"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-29-first_post.md",
+                "file": "_posts/2024-10-29-FirstPost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-29-first_post"
+              "title": "Backlinks for 2024-10-29-FirstPost"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-10-29-first_post.md",
+                "file": "_posts/2024-10-29-FirstPost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-29-first_post"
+              "title": "Outgoing links from 2024-10-29-FirstPost"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-10-29-first_post.md"
+                "file": "_posts/2024-10-29-FirstPost.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-29-first_post"
+              "title": "Outline of 2024-10-29-FirstPost"
             }
           }
         ]
@@ -164,9 +164,11 @@
   },
   "active": "6263bdba6eb45d4b",
   "lastOpenFiles": [
+    "screenshot.png",
+    "screenshot-layouts.png",
+    "_posts/2024-10-29-FirstPost.md",
     "images/leche.jpeg",
     "_site/images/leche.jpeg",
-    "_posts/2024-10-29-first_post.md",
     "_site/images/IMG_6942.jpeg",
     "_site/images",
     "_site/assets/images/IMG_6942.jpeg",
