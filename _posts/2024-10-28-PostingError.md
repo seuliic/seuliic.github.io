@@ -1,5 +1,10 @@
 ---
 layout: single
-title: "왜 포스팅이 안 보이지?"
+title: "프로젝트A 시작"
+categories: "English"
+tag: [ProjectA, Anki]
+toc: true
 ---
-# 포스팅이 안 보여서 실험 중입니다. 
+# 프로젝트A; Acquiring English
+시작합니다. 
+## 안키로 공부하는 
