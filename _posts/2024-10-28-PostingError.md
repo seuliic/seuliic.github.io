@@ -11,5 +11,4 @@ sidebar:
 # 프로젝트A; Acquiring English
 시작합니다. 
 ## 안키로 공부하는 
-
-{% include video id="HfxNBLy294o?si=bpDVt3x_lsPSp1RK" provider="youtube" %}
+[YoungSheldon-S1E1](/YoungSheldon-S1E1.apkg)
