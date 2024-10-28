@@ -11,10 +11,14 @@
             "id": "6263bdba6eb45d4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-10-29-first_post.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-10-29-first_post"
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/bio-photo.png",
+                "file": "_posts/2024-10-29-first_post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bio-photo"
+              "title": "Backlinks for 2024-10-29-first_post"
             }
           },
           {
@@ -108,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/bio-photo.png",
+                "file": "_posts/2024-10-29-first_post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bio-photo"
+              "title": "Outgoing links from 2024-10-29-first_post"
             }
           },
           {
@@ -135,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/bio-photo.png"
+                "file": "_posts/2024-10-29-first_post.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of bio-photo"
+              "title": "Outline of 2024-10-29-first_post"
             }
           }
         ]
@@ -158,23 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef0ab35c06b2d1aa",
+  "active": "6263bdba6eb45d4b",
   "lastOpenFiles": [
+    "images/leche.jpeg",
+    "_site/images/leche.jpeg",
+    "_posts/2024-10-29-first_post.md",
+    "_site/images/IMG_6942.jpeg",
+    "_site/images",
+    "_site/assets/images/IMG_6942.jpeg",
+    "images",
+    "assets/images/bio-photo.png",
     "Gemfile.sb-6da4a4ff-cVyycm",
     "_site/package.json",
     "_site/assets/images/bio-photo.png",
     "_site/assets/images",
     "CHANGELOG.md",
-    "assets/images/bio-photo.png",
     "assets/images",
-    "_posts/2024-10-29-first_post.md",
     "_site/assets/js/lunr/lunr.min.js",
     "_site/assets/js/lunr/lunr.js",
     "_site/assets/js/lunr/lunr-store.js",
     "_site/assets/js/lunr/lunr-gr.js",
-    "_site/assets/js/lunr/lunr-en.js",
-    "_site/assets/js/main.min.js.map",
-    "_site/assets/js/main.min.js",
     "_site/screenshot.png",
     "_site/screenshot-layouts.png",
     "_posts/2024-10-29-first-post.md",
