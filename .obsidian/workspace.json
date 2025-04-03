@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7384c4e88553a56c",
+        "id": "79b4f54cc9ee54dc",
         "type": "tabs",
         "children": [
           {
-            "id": "902b122ef7e56e70",
+            "id": "28ce557fa1338a59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-10-28-PostingError.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-28-PostingError"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-28-PostingError.md",
+                "file": "docs/assets/images/350x250.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-28-PostingError"
+              "title": "Backlinks for 350x250"
             }
           },
           {
@@ -112,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-10-28-PostingError.md",
+                "file": "docs/assets/images/350x250.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-28-PostingError"
+              "title": "Outgoing links from 350x250"
             }
           },
           {
@@ -127,7 +124,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,13 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-10-28-PostingError.md"
+                "file": "docs/assets/images/350x250.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-28-PostingError"
+              "title": "Outline of 350x250"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,22 +165,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "902b122ef7e56e70",
+  "active": "ef0ab35c06b2d1aa",
   "lastOpenFiles": [
+    "docs/screenshot.png",
+    "docs/screenshot-layouts.png",
+    "_posts/2025-04-04-YoungSeldon.md",
+    "_pages/tag-archive.md",
+    "_pages/search.md",
+    "_pages/category-archive.md",
+    "_pages/404.md",
+    "_site/english/YoungSeldon/index.html",
+    "_site/english/YoungSeldon",
+    "_site/assets/images/seulab-logo.png",
+    "_site/assets/images/bio-photo.png",
+    "_site/assets/favicon.ico/favicon-96x96.png",
+    "_site/assets/favicon.ico/favicon.svg",
+    "_site/assets/favicon.ico/apple-touch-icon.png",
+    "assets/post-images/leche.jpeg",
+    "assets/images/bio-photo.png",
+    "_site/assets/images/IMG_5763 2.png",
+    "assets/images/IMG_5763 2.png",
     "_posts/2024-10-27-FirstPost.md",
-    "_posts/2024-10-28-PostingError.md",
-    "_site/assets/post-images/leche.jpeg",
     "_site/assets/post-images",
     "_site/YoungSheldon-S1E1.apkg",
-    "test/assets/images/unsplash-image-5.jpg",
-    "test/assets/images/mm-theme-fork-repo.png",
-    "test/assets/images/mm-teaser-images-example.jpg",
-    "test/assets/images/mm-layout-archive-taxonomy.png",
-    "test/assets/images/mm-layout-examples.png",
-    "test/assets/images/image-alignment-1200x4002.jpg",
-    "test/assets/images/image-alignment-580x300.jpg",
-    "test/assets/images/foo-bar-identity.jpg",
-    "test/assets/images/foo-bar-identity-th.jpg",
     "test/_recipes/peanut-butter-cookies.md",
     "test/_recipes/oatmeal-cookies.md",
     "test/_recipes/chocolate-chip-cookies.md",
@@ -189,14 +199,8 @@
     "_site/_pages/search",
     "_site/_pages/search.md",
     "_site/_pages",
-    "_pages/search.md",
-    "_pages/404.md",
-    "_site/google5954e0646bb58748.html",
-    "google5954e0646bb58748.html",
     "_site/_pages/404.md",
     "_site/_pages/tag-archive.md",
-    "_pages/tag-archive.md",
-    "_pages/category-archive.md",
     "_site/_pages/Untitled.md",
     "_site/Untitled.md",
     "CHANGELOG.md",
