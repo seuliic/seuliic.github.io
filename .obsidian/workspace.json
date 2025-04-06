@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-04-05-AmericanSeriesShawing.md",
+                "file": "_pages/404.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-05-AmericanSeriesShawing"
+              "title": "404"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "2025-04-05-AmericanSeriesShawing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +183,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6811850e3070216e",
+  "active": "95bd8d027855e63e",
   "lastOpenFiles": [
-    "_posts/2025-04-04-YoungSeldon.md",
+    "_pages/search.md",
+    "_pages/category-archive.md",
+    "test/_pages/category-archive.md",
+    "test/_pages/archive-layout-with-content.md",
+    "test/_pages/404.md",
+    "docs/_docs/18-history.md",
+    "docs/_docs/19-contributing.md",
+    "docs/_docs/15-utility-classes.md",
+    "docs/_docs/04-upgrading.md",
+    "docs/_docs/03-installation.md",
+    "docs/_docs/02-structure.md",
+    "docs/_docs/01-quick-start-guide.md",
+    "assets/post-images/YS0101-1905.png",
+    "_posts/2025-04-04-DeckYS_Guide.md",
+    "_site/english/DeckYS_Guide/index.html",
+    "_site/english/DeckYS_Guide",
     "_posts/2025-04-05-AmericanSeriesShawing.md",
+    "assets/post-images/YS0101-0152.png",
     "_site/english/AmericanSeriesShawing/index.html",
     "_site/english/AmericanSeriesShawing",
-    "assets/post-images/YS0101-0152.png",
     "_site/assets/post-images/YS0101-1905.png",
     "_site/assets/post-images/YS0101-1634.png",
     "_site/assets/post-images/YS0101-1247.png",
@@ -200,19 +214,14 @@
     "_site/assets/post-images/YS0101-0152.png",
     "_site/assets/post-images",
     "_site/YS0101-1905.png",
-    "_site/YS0101-1634.png",
     "_site/AmericanSeriesShawing/index.html",
     "_site/AmericanSeriesShawing",
     "_site/영어-배우기-가장-좋은-미드로-편하게-공부하기/index.html",
     "_site/영어-배우기-가장-좋은-미드로-편하게-공부하기",
-    "_pages/search.md",
     "_pages/tag-archive.md",
-    "_pages/category-archive.md",
     "_pages/404.md",
     "_site/english/YoungSeldon/index.html",
-    "_site/english/YoungSeldon",
     "_posts/2024-10-27-FirstPost.md",
-    "_site/YoungSheldon-S1E1.apkg",
     "test/_recipes/peanut-butter-cookies.md",
     "test/_recipes/oatmeal-cookies.md",
     "test/_recipes/chocolate-chip-cookies.md",
@@ -221,9 +230,6 @@
     "_site/_pages/404.md",
     "_site/_pages/tag-archive.md",
     "_site/_pages/Untitled.md",
-    "_site/Untitled.md",
-    "CHANGELOG.md",
-    "_posts/2024-10-29-first-post.md",
-    "_posts/2024-10-29-first-page.md"
+    "_site/Untitled.md"
   ]
 }

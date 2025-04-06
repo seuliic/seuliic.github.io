@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "YoungSeldon 덱 학습법"
+title: "YoungSeldon 덱 설명서"
 categories: "English"
 tag: [Anki, YoungSeldon]
 toc: true
