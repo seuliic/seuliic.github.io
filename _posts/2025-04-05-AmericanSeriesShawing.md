@@ -1,4 +1,13 @@
-# 영어 배우기 가장 좋은 미드로 편하게 공부하기
+---
+layout: single
+title: "영어 배우기 가장 좋은 미드로 편하게 공부하기"
+categories: "English"
+tag: [Anki, YoungSeldon]
+toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+---
 ## 미드 '영 셸든'에 나오는 영어 표현, 암기(안키)하기 - S1E1
 
 https://www.youtube-nocookie.com/embed/KoAlGKn0tpY?si=WKKuftMiK-fHlwYd
@@ -9,30 +18,30 @@ https://www.youtube-nocookie.com/embed/KoAlGKn0tpY?si=WKKuftMiK-fHlwYd
 
 첫 에피소드에 나오는 간단하면서 유용한 표현을 살펴보겠습니다. 
 
-![YS0101-0152](assets/post-images/YS0101-0152.png)
+![YS0101-0152](../assets/post-images/YS0101-0152.png)
 알 바?
 None of your business.
 
-![YS0101-0337](assets/post-images/YS0101-0337.png)
+![YS0101-0337](../assets/post-images/YS0101-0337.png)
 그만하래도, 조지
 You knock that off, George!
 
-![YS0101-0954](assets/post-images/YS0101-0954.png)
+![YS0101-0954](../assets/post-images/YS0101-0954.png)
 복장 얘기가 나와서 말인데 나비넥타이는 뺄까?
 Speaking of which, how about we lose the bowtie?
 
-![YS0101-1247](assets/post-images/YS0101-1247.png)
+![YS0101-1247](../assets/post-images/YS0101-1247.png)
 좀 진정하죠
 Why don't we all just take a deep breath here?
 
-![YS0101-1414](assets/post-images/YS0101-1414.png)
+![YS0101-1414](../assets/post-images/YS0101-1414.png)
 그래도 시도는 해보셨네요
 Well, you gave it a shot.
 
-![YS0101-1634](assets/post-images/YS0101-1634.png)
+![YS0101-1634](../assets/post-images/YS0101-1634.png)
 신경 쓰지 마
 You can't let that bother you.
 
-![YS0101-1905](assets/post-images/YS0101-1905.png)
+![YS0101-1905](../assets/post-images/YS0101-1905.png)
 다 널 위해 하는 소리야
 Just do yourself a favor.
