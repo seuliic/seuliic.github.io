@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79b4f54cc9ee54dc",
+        "id": "78583bbae78fc733",
         "type": "tabs",
         "children": [
           {
-            "id": "28ce557fa1338a59",
+            "id": "95bd8d027855e63e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-04-04-AmericanSeriesShawing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-04-04-AmericanSeriesShawing"
             }
           }
         ]
@@ -165,28 +169,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef0ab35c06b2d1aa",
+  "active": "95bd8d027855e63e",
   "lastOpenFiles": [
-    "docs/screenshot.png",
-    "docs/screenshot-layouts.png",
+    "assets/post-images/YS0101-0152.png",
+    "_posts/2025-04-04-AmericanSeriesShawing.md",
+    "_site/assets/post-images/YS0101-1905.png",
+    "_site/assets/post-images/YS0101-1634.png",
+    "_site/assets/post-images/YS0101-1247.png",
+    "_site/assets/post-images/YS0101-1414.png",
+    "_site/assets/post-images/YS0101-0954.png",
+    "_site/assets/post-images/YS0101-0337.png",
+    "_site/assets/post-images/YS0101-0152.png",
+    "_site/assets/post-images",
+    "_site/YS0101-1905.png",
+    "_site/YS0101-1634.png",
+    "_site/AmericanSeriesShawing/index.html",
+    "_site/AmericanSeriesShawing",
     "_posts/2025-04-04-YoungSeldon.md",
-    "_pages/tag-archive.md",
+    "_site/영어-배우기-가장-좋은-미드로-편하게-공부하기/index.html",
+    "_site/영어-배우기-가장-좋은-미드로-편하게-공부하기",
     "_pages/search.md",
+    "_pages/tag-archive.md",
     "_pages/category-archive.md",
     "_pages/404.md",
     "_site/english/YoungSeldon/index.html",
     "_site/english/YoungSeldon",
-    "_site/assets/images/seulab-logo.png",
-    "_site/assets/images/bio-photo.png",
-    "_site/assets/favicon.ico/favicon-96x96.png",
-    "_site/assets/favicon.ico/favicon.svg",
-    "_site/assets/favicon.ico/apple-touch-icon.png",
-    "assets/post-images/leche.jpeg",
-    "assets/images/bio-photo.png",
-    "_site/assets/images/IMG_5763 2.png",
-    "assets/images/IMG_5763 2.png",
     "_posts/2024-10-27-FirstPost.md",
-    "_site/assets/post-images",
     "_site/YoungSheldon-S1E1.apkg",
     "test/_recipes/peanut-butter-cookies.md",
     "test/_recipes/oatmeal-cookies.md",
@@ -194,11 +202,7 @@
     "YoungSheldon-S1E1.apkg",
     "README.md",
     "_site/search/index.html",
-    "_site/search",
-    "_site/_pages/search/index.html",
-    "_site/_pages/search",
     "_site/_pages/search.md",
-    "_site/_pages",
     "_site/_pages/404.md",
     "_site/_pages/tag-archive.md",
     "_site/_pages/Untitled.md",
