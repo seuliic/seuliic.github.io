@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "",
+  "theme": "moonstone",
+  "accentColor": "#568a87",
+  "showRibbon": false
+}
