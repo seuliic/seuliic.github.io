@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18a427952ad1d333",
+        "id": "5e8a1822b8cdb049",
         "type": "tabs",
         "children": [
           {
-            "id": "822ba16fa229f86f",
+            "id": "a70eeb0ec58b136a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-04-16-YS0101.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-04-16-YS0101"
+              "title": "New tab"
             }
           }
         ]
@@ -169,7 +165,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "822ba16fa229f86f",
+  "active": "ef0ab35c06b2d1aa",
   "lastOpenFiles": [
     "_posts/2025-04-15-AnkiGuide.md",
     "assets/post-images/2025-04-16-AnkiGuide/Anki.png",
