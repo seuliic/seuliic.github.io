@@ -11,10 +11,14 @@
             "id": "a70eeb0ec58b136a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-04-18-YS0101.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-04-18-YS0101"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"https://claude.ai\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,29 +169,35 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "ef0ab35c06b2d1aa",
+  "active": "a70eeb0ec58b136a",
   "lastOpenFiles": [
-    "_posts/2025-04-15-AnkiGuide.md",
-    "assets/post-images/2025-04-16-AnkiGuide/Anki.png",
-    "_site/assets/post-images/2025-04-16-AnkiGuide/Anki.png",
-    "_site/assets/post-images/2025-04-16-AnkiGuide/Pasted image 20250416054801.png",
-    "_site/assets/post-images/Pasted image 20250416054801.png",
-    "_site/Pasted image 20250416054801.png",
-    "_posts/2025-04-16-YS0101.md",
-    "_site/assets/anki-deck/YoungSheldon-S1E1.apkg",
-    "_site/assets/anki-deck",
-    "assets/anki-deck/YoungSheldon-S1E1.apkg",
-    "assets/anki-deck",
-    "assets/untitled folder",
-    "assets/post-images/2025-04-16-YS0101/YoungSheldon.png",
-    "_site/assets/post-images/2025-04-16-YS0101/DeckSample.png",
-    "assets/post-images/2025-04-16-AnkiGuide/My Anki.png",
-    "_site/assets/post-images/2025-04-16-AnkiGuide/Pasted image 20250416053901.png",
-    "_site/assets/post-images/2025-04-16-YS0101",
-    "assets/post-images/2025-04-16-YS0101",
-    "_site/assets/YoungSheldon-S1E1.apkg",
-    "assets/YoungSheldon-S1E1.apkg",
+    "asset/anki-decks/YS0101.apkg.md",
+    "_site/asset/anki-decks/YS0101.apkg.md",
+    "_site/asset/anki-decks",
+    "_site/asset",
+    "_posts/2025-04-18-YS0101.md",
+    "_site/assets/anki-decks/YS0101.apkg",
+    "_site/assets/anki-decks/YoungSheldon-S1E1.apkg",
+    "_site/assets/anki-decks",
+    "asset/anki-decks",
+    "asset",
+    "_site/assets/anki-deck/YS0101.apkg",
+    "assets/anki-decks/YS0101.apkg",
+    "assets/post-images/YS0101/YS01;.md",
     "_site/english/YS0101/index.html",
+    "_posts/2025-04-16-YoungSheldon.md",
+    "_posts/2025-04-15-AnkiGuide.md",
+    "_site/assets/post-images/YS0101/YS01;.md",
+    "_site/assets/post-images/YS0101/YS0101-19;07.png",
+    "_site/assets/post-images/YS0101/YS0101-19;05.png",
+    "_site/assets/post-images/YS0101/YS0101-18;00.png",
+    "_site/assets/post-images/YS0101/YS0101-16;45.png",
+    "_site/assets/post-images/YS0101/YS0101-16;34.png",
+    "_site/assets/post-images/YS0101/YS0101-14;14.png",
+    "_site/assets/post-images/YS0101/YS0101-12;59.png",
+    "_site/assets/post-images/YS0101/YS0101-09;54.png",
+    "_site/assets/post-images/YS0101/YS0101-08;31.png",
+    "_site/assets/post-images/YS0101/YS0101-08;08.png",
     "_pages/tag-archive.md",
     "_pages/search.md",
     "_pages/category-archive.md",
@@ -205,11 +215,6 @@
     "test/_pets/tabby.md",
     "test/_pets/lhasa-apso.md",
     "test/_pages/sitemap.md",
-    "test/_pages/splash-page.md",
-    "test/_pages/tag-archive.md",
-    "test/_pages/tag-archive-grid.md",
-    "test/_pages/terms.md",
-    "test/_pages/year-archive.md",
-    "test/_pages/year-archive-grid.md"
+    "test/_pages/splash-page.md"
   ]
 }
