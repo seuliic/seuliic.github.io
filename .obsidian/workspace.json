@@ -171,20 +171,21 @@
   },
   "active": "a70eeb0ec58b136a",
   "lastOpenFiles": [
+    "_posts/2025-04-22-DeckYSGuide.md",
+    "_posts/2025-04-18-YS0101.md",
+    "_site/english/DeckYSGuide/index.html",
+    "_site/english/DeckYSGuide",
     "asset/anki-decks/YS0101.apkg.md",
     "_site/asset/anki-decks/YS0101.apkg.md",
     "_site/asset/anki-decks",
     "_site/asset",
-    "_posts/2025-04-18-YS0101.md",
     "_site/assets/anki-decks/YS0101.apkg",
     "_site/assets/anki-decks/YoungSheldon-S1E1.apkg",
     "_site/assets/anki-decks",
     "asset/anki-decks",
     "asset",
     "_site/assets/anki-deck/YS0101.apkg",
-    "assets/anki-decks/YS0101.apkg",
     "assets/post-images/YS0101/YS01;.md",
-    "_site/english/YS0101/index.html",
     "_posts/2025-04-16-YoungSheldon.md",
     "_posts/2025-04-15-AnkiGuide.md",
     "_site/assets/post-images/YS0101/YS01;.md",
@@ -214,7 +215,6 @@
     "test/_portfolio/baz-boom-identity.md",
     "test/_pets/tabby.md",
     "test/_pets/lhasa-apso.md",
-    "test/_pages/sitemap.md",
-    "test/_pages/splash-page.md"
+    "test/_pages/sitemap.md"
   ]
 }
