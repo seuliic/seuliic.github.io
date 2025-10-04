@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "848de25740224d69",
@@ -186,6 +187,9 @@
   },
   "active": "a430c389de826848",
   "lastOpenFiles": [
+    "_site/life/PhoneBill/index.html",
+    "_site/life/PhoneBill",
+    "_site/life",
     "_posts/2025-04-22-DeckYSGuide.md",
     "_posts/2025-10-05-PhoneBill.md",
     "_pages/category-archive.md",
@@ -217,8 +221,6 @@
     "_site/assets/anki-decks/YoungSheldon-S1E1.apkg",
     "_site/assets/anki-decks",
     "asset/anki-decks",
-    "asset",
-    "_site/assets/anki-deck/YS0101.apkg",
     "assets/post-images/YS0101/YS01;.md",
     "_site/assets/post-images/YS0101/YS01;.md",
     "_site/assets/post-images/YS0101/YS0101-19;07.png",
@@ -230,7 +232,6 @@
     "test/_posts/2017-11-28-post-exclude-search.md",
     "test/_posts/2009-09-05-edge-case-no-yaml-title.md",
     "test/_posts/2009-07-02-edge-case-many-categories.md",
-    "test/_posts/2009-08-06-edge-case-no-body-content.md",
-    "test/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md"
+    "test/_posts/2009-08-06-edge-case-no-body-content.md"
   ]
 }
