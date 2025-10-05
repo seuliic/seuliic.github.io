@@ -2,7 +2,7 @@
 layout: single
 title: "통신비 절약 완벽 가이드: 알뜰폰으로 연 20만원 아끼는 실전 전략"
 categories: "Life"
-tag: []
+tag: [PhoneBill]
 toc: true
 author_profile: false
 sidebar:
