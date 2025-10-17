@@ -11,10 +11,14 @@
             "id": "9fcfbfbbde513dfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-04-15-AnkiGuide.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-04-15-AnkiGuide"
             }
           }
         ]
@@ -168,6 +172,18 @@
   },
   "active": "9fcfbfbbde513dfa",
   "lastOpenFiles": [
+    "assets/post-images/2025-04-15-AnkiGuide/안키 공유덱.png",
+    "assets/post-images/2025-04-15-AnkiGuide/Anki.png",
+    "assets/post-images/2025-04-15-AnkiGuide/My Anki.png",
+    "_posts/2025-04-15-AnkiGuide.md",
+    "assets/post-images/2025-04-15-AnkiGuide/아이폰 안키 화면.jpeg",
+    "assets/post-images/2025-04-15-AnkiGuide/에빙하우스의 망각곡선.png",
+    "assets/post-images/2025-04-16-AnkiGuide/My Anki.png",
+    "assets/post-images/2025-04-16-AnkiGuide/My Anki 1.png",
+    "assets/post-images/2025-04-15-AnkiGuide/안키 아이콘.png",
+    "_posts/2025-04-16-YoungSheldon.md",
+    "_posts/2025-04-18-YS0101.md",
+    "_posts/2025-04-22-DeckYSGuide.md",
     "_posts/2025-10-04-PhoneBill.md",
     "_pages/search.md",
     "_pages/tag-archive.md",
@@ -176,15 +192,9 @@
     "_site/life/PhoneBill/index.html",
     "_site/life/PhoneBill",
     "_site/life",
-    "_posts/2025-04-22-DeckYSGuide.md",
     "assets/favicon.ico/apple-touch-icon.png",
     "assets/favicon.ico/web-app-manifest-512x512.png",
     "assets/favicon.ico/web-app-manifest-192x192.png",
-    "assets/favicon.ico/favicon-96x96.png",
-    "_posts/2025-04-16-YoungSheldon.md",
-    "assets/images/seulab-logo.png",
-    "assets/images/bio-photo.png",
-    "_posts/2025-04-15-AnkiGuide.md",
     "_pages/404.md",
     "docs/_pages/terms.md",
     "docs/_pages/year-archive.md",
@@ -192,7 +202,6 @@
     "docs/_pages/about.md",
     "docs/_pages/404.md",
     "docs/_docs/04-upgrading.md",
-    "_posts/2025-04-18-YS0101.md",
     "_site/english/DeckYSGuide/index.html",
     "_site/english/DeckYSGuide",
     "asset/anki-decks/YS0101.apkg.md",
@@ -204,15 +213,10 @@
     "_site/assets/anki-decks",
     "assets/post-images/YS0101/YS01;.md",
     "_site/assets/post-images/YS0101/YS01;.md",
-    "_site/assets/post-images/YS0101/YS0101-19;07.png",
-    "_site/assets/post-images/YS0101/YS0101-19;05.png",
-    "_site/assets/post-images/YS0101/YS0101-18;00.png",
-    "_site/assets/post-images/YS0101/YS0101-16;45.png",
     "test/_posts/2017-01-23-layout-header-video.md",
     "test/_recipes/chocolate-chip-cookies.md",
     "test/_posts/2017-11-28-post-exclude-search.md",
     "test/_posts/2009-09-05-edge-case-no-yaml-title.md",
-    "test/_posts/2009-07-02-edge-case-many-categories.md",
-    "test/_posts/2009-08-06-edge-case-no-body-content.md"
+    "test/_posts/2009-07-02-edge-case-many-categories.md"
   ]
 }
